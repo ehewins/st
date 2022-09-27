@@ -12,10 +12,10 @@ index 18620ed..c40cd31 100644
 -	"#555555",
 -	"gray90", /* default foreground colour */
 -	"black", /* default background colour */
-+	"gray90", /* 256 -> cursor */
-+	"black", /* 257 -> rev cursor */
-+	"#cccccc", /* 258 -> bg */
-+	"#555555", /* 259 -> fg */
++	"#cccccc", /* 256 -> cursor */
++	"#555555", /* 257 -> rev cursor */
++	"black", /* 258 -> bg */
++	"gray90", /* 259 -> fg */
  };
 
 

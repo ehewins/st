@@ -8,7 +8,7 @@
 static char *font = "mononoki Nerd Font:pixelsize=18:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-	"Noto Color Emoji:pixelsize=10:antialias=true:autohint=true",
+	"Noto Color Emoji:pixelsize=12:antialias=true:autohint=true",
 };
 
 static int borderpx = 2;
@@ -135,10 +135,10 @@ static const char *colorname[] = {
 	[255] = 0,
 
 	/* more colors can be added after 255 to use with DefaultXX */
-	"gray90", /* 256 -> cursor */
-	"black", /* 257 -> rev cursor */
-	"#cccccc", /* 258 -> bg */
-	"#555555", /* 259 -> fg */
+	"#cccccc", /* 256 -> cursor */
+	"#555555", /* 257 -> rev cursor */
+	"black", /* 258 -> bg */
+	"gray90", /* 259 -> fg */
 };
 
 
