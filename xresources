@@ -1,0 +1,48 @@
+! Fonts:
+! Comment, Uncomment and add fonts as required
+
+*.font: mononoki Nerd Font:pixelsize=18:antialias=true:autohint=true;
+!*.font: DejaVuSansMono Nerd Font:pixelsize=16:antialias=true:autohint=true;
+
+! Colours:
+! Comment, Uncomment and add colour schemes as required
+
+! Gruvbox Dark
+*.color0:  #282828
+*.color1:  #cc241d
+*.color2:  #98971a
+*.color3:  #d79921
+*.color4:  #458588
+*.color5:  #b18286
+*.color6:  #689d6a
+*.color7:  #a89984
+*.color8:  #928374
+*.color9:  #fb4934
+*.color10: #b8bb26
+*.color11: #fabd2f
+*.color12: #83a598
+*.color13: #d3869b
+*.color14: #8ec07c
+*.color15: #ebdbb2
+*.background: #282828
+*.foreground: #ebdbb2
+
+!! Sgi-Irix
+!*.color0:  #000000
+!*.color1:  #aa0000
+!*.color2:  #00aa00
+!*.color3:  #aa5500
+!*.color4:  #0000aa
+!*.color5:  #aa00aa
+!*.color6:  #00aaaa
+!*.color7:  #aaaaaa
+!*.color8:  #555555
+!*.color9:  #ff5555
+!*.color10: #55ff55
+!*.color11: #ffff55
+!*.color12: #5555ff
+!*.color13: #ff55ff
+!*.color14: #55ffff
+!*.color15: #ffffff
+!*.background: #091a4b
+!*.foreground: #ffffff
